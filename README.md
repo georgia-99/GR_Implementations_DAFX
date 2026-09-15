@@ -3,7 +3,7 @@ This project revolves around implementation of different gain-reduction tools of
 
 All gain reduction tools are inspired from their implementation in the DAFX textbook.
 
-Table of contents:
+## Table of contents:
 
 A Step-by-step implementation of different tools
   1. Standard compressor implementation
